@@ -6,34 +6,21 @@
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
-## 📋 **SWEN101: Computer Systems**  
-### **Group Assignment & Student Understanding Check**
+**SWEN101: Computer Systems**  
+**Group Assignment & Student Understanding Check**
 
-### 📅 **Deadline: January 25, 2025**
+**Deadline: January 25, 2025**
 
-</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
-
-## ⚠️ **IMPORTANT NOTICE:**
-
+### ⚠️ **IMPORTANT NOTICE:**
 > Some questions in this assignment may not have been fully addressed in the lectures so far. They are intentionally included to prepare you for upcoming topics and further study in Computer Systems. These questions require **critical thinking** and cannot be answered by simply copying from AI tools or textbooks.
 
-</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<div align="center">
 
 ## 🎯 PART A: CPU SCHEDULING & OPERATING SYSTEM FUNDAMENTALS
-
-</div>
 
 ### 🔢 **Question 1**
 
@@ -78,13 +65,9 @@ Solve using the following scheduling algorithms:
 - **WT** = Waiting Time
 - **RT** = Response Time
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
 ## 🔌 PART B: DIGITAL LOGIC & HARDWARE FUNDAMENTALS
-
-</div>
 
 ### 🔢 **Question 2**
 
@@ -99,13 +82,9 @@ Seven switches (**S1, S2, S3, S4, S5, S6, S7**) operate a lamp under the followi
 2. 🔧 Simplify the expression using Boolean algebra laws
 3. 🛠️ Draw the logic circuit using AND, OR, and NOT gates
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
 ## 🏗️ PART C: COMPUTER ARCHITECTURE & SYSTEM ORGANIZATION
-
-</div>
 
 ### 🔢 **Question 3**
 
@@ -116,13 +95,9 @@ Compare **Von Neumann** and **Harvard Architectures** in terms of:
 - ✅ Advantages and limitations
 - 🌍 Real-world applications (provide specific examples)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
 ## 🔢 PART D: BOOLEAN ALGEBRA & DIGITAL SYSTEMS
-
-</div>
 
 ### 🔢 **Question 4**
 
@@ -134,13 +109,9 @@ Simplify the Boolean function using a 4-variable Karnaugh Map:
 3. ✨ Obtain the simplified POS expression
 4. 🛠️ Draw the minimized logic circuit
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
 ## 📚 PART E: CONCEPTUAL UNDERSTANDING
-
-</div>
 
 *Answer the following questions concisely but completely:*
 
@@ -176,13 +147,9 @@ Describe the instruction execution cycle (**Fetch–Decode–Execute**) with a d
 #### ❓ **Question 12**
 Explain the **Von Neumann bottleneck**. Why is it a limitation and how do modern systems address it?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
 ## 💡 PART F: CRITICAL THINKING & REAL-WORLD APPLICATION
-
-</div>
 
 *These questions require original thinking and analysis. Show your reasoning process clearly.*
 
@@ -203,7 +170,7 @@ You are designing a scheduling algorithm for a hospital emergency room system wh
 
 **d)** Draw a flowchart showing your complete scheduling decision process.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ### 🅿️ **Question 14 - Parking Lot Management System**
 
@@ -225,7 +192,7 @@ Design a parking lot management system with 4 floors where:
 
 **e)** What modifications would you make if the system needed to track the **NUMBER** of available spaces on each floor?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ### 🚗 **Question 15 - Self-Driving Car CPU Scheduling**
 
@@ -250,7 +217,7 @@ Design a CPU scheduling system for a self-driving car that must handle the follo
 
 **e)** Draw a timeline showing how your scheduler would handle all four processes over a 1-second period.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ### ⌨️ **Question 16 - Keyboard to Screen Journey**
 
@@ -264,7 +231,7 @@ Explain the complete journey of pressing the letter 'A' on your keyboard until i
 
 **Draw a diagram showing this complete flow.**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ### 📱 **Question 17 - Architecture Selection for IoT Device**
 
@@ -284,13 +251,9 @@ Which architecture would you choose: **Von Neumann, Harvard, or Modified Harvard
 
 **Compare at least TWO architectures before making your final recommendation.**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
 ## ⚖️ PART G: ETHICAL CONSIDERATIONS
-
-</div>
 
 ### 🏥 **Question 18 - Medical Device Scheduling Ethics**
 
@@ -302,7 +265,7 @@ CPU scheduling decisions can have life-or-death implications in medical devices 
 
 **c)** What redundancy measures would you implement to prevent scheduling failures in a life-critical medical device?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ### 🔄 **Question 19 - Comparing Critical Systems**
 
@@ -319,7 +282,7 @@ Compare how the following four systems would implement process scheduling differ
 - 🛡️ Failure handling mechanisms
 - ⏰ Consequences of scheduling delays
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ### 🎛️ **Question 20 - Universal Gates Challenge**
 
@@ -333,13 +296,9 @@ You have unlimited **NAND gates** only.
 
 **d)** What is the propagation delay of your XOR circuit if each NAND gate has a 2ns delay?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
 
 ## 📤 SUBMISSION GUIDELINES
-
-</div>
 
 #### 📋 **Submission Requirements:**
 - ✅ Submit as a **GROUP** with all member names clearly listed
@@ -354,15 +313,8 @@ You have unlimited **NAND gates** only.
 1. **Name:** ____________________________ **ID:** ________________
 2. **Name:** ____________________________ **ID:** ________________
 3. **Name:** ____________________________ **ID:** ________________
-4. **Name:** ____________________________ **ID:** ________________
-5. **Name:** ____________________________ **ID:** ________________
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
+
 
 ## 🏁 END OF ASSIGNMENT
-
-</div>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
