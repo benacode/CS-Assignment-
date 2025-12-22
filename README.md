@@ -2,19 +2,19 @@
 ## 🎯 SCHOOL OF SYSTEMS AND TECHNOLOGY
 ### 💻 Introduction to Computer Systems (SWEN101)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 📋 **SWEN101: Computer Systems**  
 ### **Group Assignment & Student Understanding Check**
 
 ### 📅 **Deadline: January 25, 2025**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## ⚠️ **IMPORTANT NOTICE:**
 > Some questions in this assignment may not have been fully addressed in the lectures so far. They are intentionally included to prepare you for upcoming topics and further study in Computer Systems. These questions require **critical thinking** and cannot be answered by simply copying from AI tools or textbooks.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🎯 PART A: CPU SCHEDULING & OPERATING SYSTEM FUNDAMENTALS
 
@@ -61,7 +61,7 @@ Solve using the following scheduling algorithms:
 - **WT** = Waiting Time
 - **RT** = Response Time
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🔌 PART B: DIGITAL LOGIC & HARDWARE FUNDAMENTALS
 
@@ -78,7 +78,7 @@ Seven switches (**S1, S2, S3, S4, S5, S6, S7**) operate a lamp under the followi
 2. 🔧 Simplify the expression using Boolean algebra laws
 3. 🛠️ Draw the logic circuit using AND, OR, and NOT gates
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🏗️ PART C: COMPUTER ARCHITECTURE & SYSTEM ORGANIZATION
 
@@ -91,7 +91,7 @@ Compare **Von Neumann** and **Harvard Architectures** in terms of:
 - ✅ Advantages and limitations
 - 🌍 Real-world applications (provide specific examples)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🔢 PART D: BOOLEAN ALGEBRA & DIGITAL SYSTEMS
 
@@ -105,7 +105,6 @@ Simplify the Boolean function using a 4-variable Karnaugh Map:
 3. ✨ Obtain the simplified POS expression
 4. 🛠️ Draw the minimized logic circuit
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # 📚 PART E: CONCEPTUAL UNDERSTANDING
 
@@ -143,7 +142,7 @@ Describe the instruction execution cycle (**Fetch–Decode–Execute**) with a d
 ## ❓ **Question 12**
 Explain the **Von Neumann bottleneck**. Why is it a limitation and how do modern systems address it?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 💡 PART F: CRITICAL THINKING & REAL-WORLD APPLICATION
 
@@ -166,7 +165,7 @@ You are designing a scheduling algorithm for a hospital emergency room system wh
 
 **d)** Draw a flowchart showing your complete scheduling decision process.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 🅿️ **Question 14 - Parking Lot Management System**
 
@@ -188,7 +187,7 @@ Design a parking lot management system with 4 floors where:
 
 **e)** What modifications would you make if the system needed to track the **NUMBER** of available spaces on each floor?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 🚗 **Question 15 - Self-Driving Car CPU Scheduling**
 
@@ -213,7 +212,7 @@ Design a CPU scheduling system for a self-driving car that must handle the follo
 
 **e)** Draw a timeline showing how your scheduler would handle all four processes over a 1-second period.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## ⌨️ **Question 16 - Keyboard to Screen Journey**
 
@@ -227,7 +226,7 @@ Explain the complete journey of pressing the letter 'A' on your keyboard until i
 
 **Draw a diagram showing this complete flow.**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 📱 **Question 17 - Architecture Selection for IoT Device**
 
@@ -247,7 +246,7 @@ Which architecture would you choose: **Von Neumann, Harvard, or Modified Harvard
 
 **Compare at least TWO architectures before making your final recommendation.**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # ⚖️ PART G: ETHICAL CONSIDERATIONS
 
@@ -261,7 +260,7 @@ CPU scheduling decisions can have life-or-death implications in medical devices 
 
 **c)** What redundancy measures would you implement to prevent scheduling failures in a life-critical medical device?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 🔄 **Question 19 - Comparing Critical Systems**
 
@@ -278,7 +277,7 @@ Compare how the following four systems would implement process scheduling differ
 - 🛡️ Failure handling mechanisms
 - ⏰ Consequences of scheduling delays
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 🎛️ **Question 20 - Universal Gates Challenge**
 
@@ -292,7 +291,6 @@ You have unlimited **NAND gates** only.
 
 **d)** What is the propagation delay of your XOR circuit if each NAND gate has a 2ns delay?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # 📤 SUBMISSION GUIDELINES
 
@@ -312,7 +310,6 @@ You have unlimited **NAND gates** only.
 4. **Name:** ____________________________ **ID:** ________________
 5. **Name:** ____________________________ **ID:** ________________
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🏁 END OF ASSIGNMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
