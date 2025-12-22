@@ -1,24 +1,41 @@
-# 🏛️ BITS COLLEGE
-## 🎯 SCHOOL OF SYSTEMS AND TECHNOLOGY
-### 💻 Introduction to Computer Systems (SWEN101)
+<div align="center">
 
+## 🏛️ BITS COLLEGE
+### 🎯 SCHOOL OF SYSTEMS AND TECHNOLOGY
+#### 💻 Introduction to Computer Systems (SWEN101)
 
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
 
 ## 📋 **SWEN101: Computer Systems**  
 ### **Group Assignment & Student Understanding Check**
 
 ### 📅 **Deadline: January 25, 2025**
 
+</div>
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
 
 ## ⚠️ **IMPORTANT NOTICE:**
+
 > Some questions in this assignment may not have been fully addressed in the lectures so far. They are intentionally included to prepare you for upcoming topics and further study in Computer Systems. These questions require **critical thinking** and cannot be answered by simply copying from AI tools or textbooks.
 
+</div>
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 🎯 PART A: CPU SCHEDULING & OPERATING SYSTEM FUNDAMENTALS
+<div align="center">
 
-## 🔢 **Question 1**
+## 🎯 PART A: CPU SCHEDULING & OPERATING SYSTEM FUNDAMENTALS
+
+</div>
+
+### 🔢 **Question 1**
 
 Suppose the following processes arrive for execution on a single CPU:
 
@@ -34,24 +51,24 @@ Suppose the following processes arrive for execution on a single CPU:
 
 Solve using the following scheduling algorithms:
 
-### **a) First Come First Serve (FCFS)**
+#### **a) First Come First Serve (FCFS)**
 - 📊 Draw the Gantt chart
 - 🧮 Calculate CT, TAT, WT, RT for each process
 - 📈 Compute Average Waiting Time
 
-### **b) Shortest Job First (SJF – Non-Preemptive)**
+#### **b) Shortest Job First (SJF – Non-Preemptive)**
 - 📊 Draw the Gantt chart
 - 🧮 Calculate CT, TAT, WT, RT for each process
 
-### **c) Shortest Remaining Time First (SRTF – Preemptive)**
+#### **c) Shortest Remaining Time First (SRTF – Preemptive)**
 - 📊 Draw the Gantt chart
 - 🧮 Calculate CT, TAT, WT, RT for each process
 
-### **d) Round Robin Scheduling (Time Quantum = 4 ms)**
+#### **d) Round Robin Scheduling (Time Quantum = 4 ms)**
 - 📊 Draw the Gantt chart
 - 🧮 Calculate CT, TAT, WT, RT for each process
 
-### **e) Priority Scheduling**
+#### **e) Priority Scheduling**
 - 🔄 Solve using both Preemptive and Non-Preemptive methods
 - 📊 Draw Gantt charts and compute all timing metrics
 
@@ -61,11 +78,15 @@ Solve using the following scheduling algorithms:
 - **WT** = Waiting Time
 - **RT** = Response Time
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<div align="center">
 
-# 🔌 PART B: DIGITAL LOGIC & HARDWARE FUNDAMENTALS
+## 🔌 PART B: DIGITAL LOGIC & HARDWARE FUNDAMENTALS
 
-## 🔢 **Question 2**
+</div>
+
+### 🔢 **Question 2**
 
 Seven switches (**S1, S2, S3, S4, S5, S6, S7**) operate a lamp under the following conditions:
 
@@ -73,16 +94,20 @@ Seven switches (**S1, S2, S3, S4, S5, S6, S7**) operate a lamp under the followi
 - 🟢 **Condition 2:** Switches 2, 4, and 6 are ON and switch 3 is OFF
 - 🟢 **Condition 3:** All switches are ON
 
-### **Tasks:**
+#### **Tasks:**
 1. ✍️ Write the Boolean expression for the lamp output
 2. 🔧 Simplify the expression using Boolean algebra laws
 3. 🛠️ Draw the logic circuit using AND, OR, and NOT gates
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<div align="center">
 
-# 🏗️ PART C: COMPUTER ARCHITECTURE & SYSTEM ORGANIZATION
+## 🏗️ PART C: COMPUTER ARCHITECTURE & SYSTEM ORGANIZATION
 
-## 🔢 **Question 3**
+</div>
+
+### 🔢 **Question 3**
 
 Compare **Von Neumann** and **Harvard Architectures** in terms of:
 - 🧠 Memory organization
@@ -91,71 +116,84 @@ Compare **Von Neumann** and **Harvard Architectures** in terms of:
 - ✅ Advantages and limitations
 - 🌍 Real-world applications (provide specific examples)
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<div align="center">
 
-# 🔢 PART D: BOOLEAN ALGEBRA & DIGITAL SYSTEMS
+## 🔢 PART D: BOOLEAN ALGEBRA & DIGITAL SYSTEMS
 
-## 🔢 **Question 4**
+</div>
+
+### 🔢 **Question 4**
 
 Simplify the Boolean function using a 4-variable Karnaugh Map:
 
-### **Tasks:**
+#### **Tasks:**
 1. 🗺️ Construct the K-map for POS (Product of Sums)
 2. 👥 Group the maxterms appropriately
 3. ✨ Obtain the simplified POS expression
 4. 🛠️ Draw the minimized logic circuit
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 📚 PART E: CONCEPTUAL UNDERSTANDING
+<div align="center">
+
+## 📚 PART E: CONCEPTUAL UNDERSTANDING
+
+</div>
 
 *Answer the following questions concisely but completely:*
 
-## ❓ **Question 5**
+#### ❓ **Question 5**
 Why is CPU scheduling required in a multiprogramming system?
 
-## ❓ **Question 6**
+#### ❓ **Question 6**
 Differentiate between preemptive and non-preemptive scheduling. Provide one example of each.
 
-## ❓ **Question 7**
+#### ❓ **Question 7**
 Why does Shortest Job First (SJF) minimize average waiting time? Explain with a simple example.
 
-## ❓ **Question 8**
+#### ❓ **Question 8**
 How does time quantum affect the performance of Round Robin scheduling? Discuss what happens with very small and very large quantum values.
 
-## ❓ **Question 9**
+#### ❓ **Question 9**
 List the main components of the CPU and explain the function of each:
 - ⚙️ Control Unit (CU)
 - ➕ Arithmetic Logic Unit (ALU)
 - 📝 Registers
 - 💾 Cache
 
-## ❓ **Question 10**
+#### ❓ **Question 10**
 Explain the function of the following CPU registers:
 - ▶️ Program Counter (PC)
 - 🏠 Memory Address Register (MAR)
 - 💽 Memory Data Register (MDR)
 - 📋 Instruction Register (IR)
 
-## ❓ **Question 11**
+#### ❓ **Question 11**
 Describe the instruction execution cycle (**Fetch–Decode–Execute**) with a diagram. What happens at each stage?
 
-## ❓ **Question 12**
+#### ❓ **Question 12**
 Explain the **Von Neumann bottleneck**. Why is it a limitation and how do modern systems address it?
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<div align="center">
 
-# 💡 PART F: CRITICAL THINKING & REAL-WORLD APPLICATION
+## 💡 PART F: CRITICAL THINKING & REAL-WORLD APPLICATION
+
+</div>
 
 *These questions require original thinking and analysis. Show your reasoning process clearly.*
 
-## 🏥 **Question 13 - Hospital Emergency Room Scheduling**
+### 🏥 **Question 13 - Hospital Emergency Room Scheduling**
 
 You are designing a scheduling algorithm for a hospital emergency room system where patients arrive with different severity levels:
 - 🔴 **CRITICAL** (life-threatening)
 - 🟡 **URGENT** (serious but stable)
 - 🟢 **NORMAL** (non-emergency)
 
-### **Answer the following:**
+#### **Answer the following:**
 
 **a)** Which scheduling algorithm would you choose and why? Justify your selection over other alternatives.
 
@@ -165,9 +203,9 @@ You are designing a scheduling algorithm for a hospital emergency room system wh
 
 **d)** Draw a flowchart showing your complete scheduling decision process.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-## 🅿️ **Question 14 - Parking Lot Management System**
+### 🅿️ **Question 14 - Parking Lot Management System**
 
 Design a parking lot management system with 4 floors where:
 - Each floor has a sensor indicating **FULL (1)** or **AVAILABLE (0)**
@@ -175,7 +213,7 @@ Design a parking lot management system with 4 floors where:
 - The entrance display should show **"FULL"** only when ALL floors are full
 - The system should direct cars to the nearest available floor
 
-### **Tasks:**
+#### **Tasks:**
 
 **a)** Write the Boolean expression for the main entrance "FULL" indicator
 
@@ -187,9 +225,9 @@ Design a parking lot management system with 4 floors where:
 
 **e)** What modifications would you make if the system needed to track the **NUMBER** of available spaces on each floor?
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-## 🚗 **Question 15 - Self-Driving Car CPU Scheduling**
+### 🚗 **Question 15 - Self-Driving Car CPU Scheduling**
 
 Design a CPU scheduling system for a self-driving car that must handle the following processes:
 
@@ -197,10 +235,10 @@ Design a CPU scheduling system for a self-driving car that must handle the follo
 |-------------|----------------------|--------------|
 | 🚨 Obstacle Detection | Within 10ms | CRITICAL |
 | 🧭 Navigation Updates | Every 100ms | HIGH |
-- 🎮 Entertainment | Best effort | LOW |
-- 🌡️ Climate Control | Every 5 seconds | LOW |
+| 🎮 Entertainment | Best effort | LOW |
+| 🌡️ Climate Control | Every 5 seconds | LOW |
 
-### **Answer the following:**
+#### **Answer the following:**
 
 **a)** Classify which processes are real-time vs non-real-time. Explain why.
 
@@ -212,9 +250,9 @@ Design a CPU scheduling system for a self-driving car that must handle the follo
 
 **e)** Draw a timeline showing how your scheduler would handle all four processes over a 1-second period.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-## ⌨️ **Question 16 - Keyboard to Screen Journey**
+### ⌨️ **Question 16 - Keyboard to Screen Journey**
 
 Explain the complete journey of pressing the letter 'A' on your keyboard until it appears on your screen. Your explanation must include:
 
@@ -226,9 +264,9 @@ Explain the complete journey of pressing the letter 'A' on your keyboard until i
 
 **Draw a diagram showing this complete flow.**
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-## 📱 **Question 17 - Architecture Selection for IoT Device**
+### 📱 **Question 17 - Architecture Selection for IoT Device**
 
 Your company is designing a new IoT device with these requirements:
 - 📊 Process sensor data in real-time
@@ -238,7 +276,7 @@ Your company is designing a new IoT device with these requirements:
 
 Which architecture would you choose: **Von Neumann, Harvard, or Modified Harvard?**
 
-### **Justify your decision considering:**
+#### **Justify your decision considering:**
 **a)** Power consumption implications  
 **b)** Performance requirements  
 **c)** Cost constraints  
@@ -246,11 +284,15 @@ Which architecture would you choose: **Von Neumann, Harvard, or Modified Harvard
 
 **Compare at least TWO architectures before making your final recommendation.**
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<div align="center">
 
-# ⚖️ PART G: ETHICAL CONSIDERATIONS
+## ⚖️ PART G: ETHICAL CONSIDERATIONS
 
-## 🏥 **Question 18 - Medical Device Scheduling Ethics**
+</div>
+
+### 🏥 **Question 18 - Medical Device Scheduling Ethics**
 
 CPU scheduling decisions can have life-or-death implications in medical devices like pacemakers and insulin pumps.
 
@@ -260,9 +302,9 @@ CPU scheduling decisions can have life-or-death implications in medical devices 
 
 **c)** What redundancy measures would you implement to prevent scheduling failures in a life-critical medical device?
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-## 🔄 **Question 19 - Comparing Critical Systems**
+### 🔄 **Question 19 - Comparing Critical Systems**
 
 Compare how the following four systems would implement process scheduling differently:
 
@@ -271,15 +313,15 @@ Compare how the following four systems would implement process scheduling differ
 3. 📱 **Social Media Mobile App**
 4. ☢️ **Nuclear Power Plant Control System**
 
-### **For EACH system, identify:**
+#### **For EACH system, identify:**
 - 🔧 Type of scheduling algorithm most suitable
 - ⭐ Priority considerations
 - 🛡️ Failure handling mechanisms
 - ⏰ Consequences of scheduling delays
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-## 🎛️ **Question 20 - Universal Gates Challenge**
+### 🎛️ **Question 20 - Universal Gates Challenge**
 
 You have unlimited **NAND gates** only.
 
@@ -291,10 +333,15 @@ You have unlimited **NAND gates** only.
 
 **d)** What is the propagation delay of your XOR circuit if each NAND gate has a 2ns delay?
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 📤 SUBMISSION GUIDELINES
+<div align="center">
 
-### 📋 **Submission Requirements:**
+## 📤 SUBMISSION GUIDELINES
+
+</div>
+
+#### 📋 **Submission Requirements:**
 - ✅ Submit as a **GROUP** with all member names clearly listed
 - 📝 Show **all working** for calculation questions
 - 🎨 Diagrams must be **neat and clearly labeled**
@@ -302,7 +349,7 @@ You have unlimited **NAND gates** only.
 - ⏰ **Late submissions:** -10% per day
 - ❌ **Plagiarism** will result in automatic ZERO for all group members
 
-### 👥 **Group Members:**
+#### 👥 **Group Members:**
 
 1. **Name:** ____________________________ **ID:** ________________
 2. **Name:** ____________________________ **ID:** ________________
@@ -310,6 +357,12 @@ You have unlimited **NAND gates** only.
 4. **Name:** ____________________________ **ID:** ________________
 5. **Name:** ____________________________ **ID:** ________________
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<div align="center">
 
-# 🏁 END OF ASSIGNMENT
+## 🏁 END OF ASSIGNMENT
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
