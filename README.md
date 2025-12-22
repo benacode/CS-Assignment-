@@ -1,7 +1,5 @@
 <div align="center">
 
-## 🏛️ BITS COLLEGE
-### 🎯 SCHOOL OF SYSTEMS AND TECHNOLOGY
 #### 💻 Introduction to Computer Systems (SWEN101)
 
 </div>
