@@ -404,7 +404,6 @@ You have unlimited **NAND gates** only.
 **Technical:**
 - [ ] File is in PDF format
 - [ ] File name follows naming convention
-- [ ] File size under 25 MB
 - [ ] PDF is not password-protected
 - [ ] All pages are properly oriented
 
