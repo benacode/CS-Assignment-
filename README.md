@@ -375,22 +375,157 @@ You have unlimited **NAND gates** only.
 
 
 
-## 📤 SUBMISSION GUIDELINES
+### ✅ Pre-Submission Checklist
 
-#### 📋 **Submission Requirements:**
-- ✅ Submit as a **GROUP** with all member names clearly listed
-- 📝 Show **all working** for calculation questions
-- 🎨 Diagrams must be **neat and clearly labeled**
-- 💭 Critical thinking questions require **YOUR OWN analysis** - AI-generated answers will be penalized
-- ⏰ **Late submissions:** -10% per day
-- ❌ **Plagiarism** will result in automatic ZERO for all group members
+**Content Completeness:**
+- [ ] All questions from Part A to Part G attempted
+- [ ] All Gantt charts include time scale and process labels
+- [ ] All calculations show step-by-step working
+- [ ] All truth tables are complete (no missing rows)
+- [ ] All Boolean expressions are clearly formatted
+- [ ] All logic circuits use standard gate symbols
+- [ ] All diagrams are labeled and referenced in text
 
-#### 👥 **Group Members:**
+**Formatting:**
+- [ ] Cover page with all required information
+- [ ] Table of contents with page numbers
+- [ ] Questions numbered clearly matching this document
+- [ ] Consistent formatting throughout
+- [ ] Page numbers on all pages
+- [ ] Readable font size (not smaller than 10pt)
 
-1. **Name:** ____________________________ **ID:** ________________
-2. **Name:** ____________________________ **ID:** ________________
-3. **Name:** ____________________________ **ID:** ________________
+**Quality Checks:**
+- [ ] Spelling and grammar checked
+- [ ] All diagrams are clear and legible
+- [ ] Mathematical notation is correct
+- [ ] References cited if external sources used
+- [ ] File opens correctly in PDF reader
 
+**Technical:**
+- [ ] File is in PDF format
+- [ ] File name follows naming convention
+- [ ] File size under 25 MB
+- [ ] PDF is not password-protected
+- [ ] All pages are properly oriented
+
+---
+
+### 📊 Marking Rubric
+
+| Criteria | Excellent (90-100%) | Good (70-89%) | Satisfactory (50-69%) | Needs Improvement (<50%) |
+|:---------|:-------------------|:--------------|:---------------------|:------------------------|
+| **Correctness** | All solutions mathematically/logically correct | Minor calculation or logical errors | Some significant errors | Major conceptual errors |
+| **Working Shown** | Complete, clear, logical steps for all problems | Most steps shown clearly | Some steps missing or unclear | Little or no working shown |
+| **Diagrams/Charts** | Professional, clear, properly labeled, accurate | Clear and labeled with minor issues | Basic but understandable | Missing, unclear, or incorrect |
+| **Critical Thinking** | Original, insightful, well-reasoned analysis | Good analysis with evidence | Basic analysis attempted | No analysis or copied content |
+| **Completeness** | All questions fully answered | Most questions fully answered | Some questions incomplete | Many questions missing |
+| **Presentation** | Professional, well-organized, easy to follow | Good organization | Acceptable formatting | Poor organization |
+
+---
+
+### ⏰ Deadline and Late Submission Policy
+
+| Item | Details |
+|:-----|:--------|
+| **Submission Deadline** | January 25, 2026, 11:59 PM (Local Time) |
+| **Submission Portal** | University LMS → SWEN101 → Assignments |
+| **Late Penalty** | -10% per day (including weekends and holidays) |
+| **Maximum Late Period** | 5 days |
+| **After 5 Days Late** | Automatic 0% |
+| **Technical Issues** | Email instructor BEFORE deadline with evidence |
+| **Extension Requests** | Submit in writing at least 48 hours before deadline |
+
+**Late Submission Calculation:**
+
+| Days Late | Maximum Possible Score |
+|:---------:|:----------------------:|
+| 0 (On time) | 100% |
+| 1 | 90% |
+| 2 | 80% |
+| 3 | 70% |
+| 4 | 60% |
+| 5 | 50% |
+| 6+ | 0% |
+
+---
+
+### ⚠️ Academic Integrity Policy
+
+| Violation | First Offense | Repeat Offense |
+|:----------|:-------------|:---------------|
+| **Plagiarism** | 0% for assignment + warning | Course failure + disciplinary hearing |
+| **AI-Generated Content** (without analysis) | 0% for that question | 0% for assignment |
+| **Copying from Other Groups** | 0% for BOTH groups | Course failure for all involved |
+| **Contract Cheating** | Course failure | Expulsion proceedings |
+| **Unauthorized Collaboration** | 0% for assignment | Course failure |
+
+**What is Allowed:**
+- ✅ Discussing concepts with classmates
+- ✅ Using lecture notes and textbooks
+- ✅ Referencing online resources (with citation)
+- ✅ Using AI tools to understand concepts (not to generate answers)
+
+**What is NOT Allowed:**
+- ❌ Copying solutions from any source
+- ❌ Sharing your solutions with other groups
+- ❌ Using AI to generate answers directly
+- ❌ Submitting work done by others
+- ❌ Purchasing or selling assignment solutions
+
+---
+
+### 👥 Group Member Declaration
+
+**Group Number:** _______________
+
+| # | Full Name | Student ID | Email Address | Contribution (%) | Signature |
+|:-:|:----------|:-----------|:--------------|:----------------:|:---------:|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+
+**Total Contribution Must Equal 100%**
+
+---
+
+### 📜 Honor Code Statement
+
+> **We, the undersigned members of this group, solemnly declare that:**
+>
+> 1. This assignment represents our own original work
+> 2. We have not copied solutions from any unauthorized source
+> 3. We have not shared our solutions with any other group
+> 4. We have not used AI tools to generate answers without proper analysis
+> 5. All external sources have been properly cited
+> 6. We have contributed fairly to this assignment as indicated above
+> 7. We understand and accept the academic integrity policy
+> 8. We accept responsibility for any violations discovered
+>
+> **We acknowledge that any violation of academic integrity will result in disciplinary action as outlined in the university's academic integrity policy.**
+
+**Signatures:**
+
+| Member | Signature | Date |
+|:-------|:----------|:-----|
+| Member 1 | | |
+| Member 2 | | |
+| Member 3 | | |
+
+---
+
+## 🏁 END OF ASSIGNMENT
+
+---
+
+<div align="center">
+
+### 🍀 Good Luck!
+
+*If you have questions, contact me during office hours or via email.*
+
+
+*This assignment was designed to test your understanding of computer systems concepts and your ability to apply them to real-world scenarios. Take your time, think critically, and show your work!*
+</div>
 
 
 
