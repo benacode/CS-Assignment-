@@ -1,21 +1,91 @@
 <div align="center">
 
-#### 💻 Introduction to Computer Systems (SWEN101)
+# 💻 Introduction to Computer Systems (SWEN101)
+
+## Group Assignment & Student Understanding Check
+
+### Academic Year 2025-2026
+
+**Deadline: January 25, 2026, 11:59 PM**
+
+---
+
+![Computer Systems](https://img.shields.io/badge/Course-SWEN101-blue)
+![Assignment](https://img.shields.io/badge/Type-Group%20Assignment-green)
+![Marks](https://img.shields.io/badge/Total%20Marks-100-red)
 
 </div>
 
+---
 
+## 📋 Table of Contents
 
-**SWEN101: Computer Systems**  
-**Group Assignment & Student Understanding Check**
+1. [Course Information](#-course-information)
+2. [Important Notice](#-important-notice)
+3. [Key Definitions](#-key-definitions)
+4. [Part A: CPU Scheduling](#-part-a-cpu-scheduling--operating-system-fundamentals)
+5. [Part B: Digital Logic](#-part-b-digital-logic--hardware-fundamentals)
+6. [Part C: Computer Architecture](#-part-c-computer-architecture--system-organization)
+7. [Part D: Boolean Algebra](#-part-d-boolean-algebra--digital-systems)
+8. [Part E: Conceptual Understanding](#-part-e-conceptual-understanding)
+9. [Part F: Critical Thinking](#-part-f-critical-thinking--real-world-application)
+10. [Part G: Ethical Considerations](#-part-g-ethical-considerations)
+11. [Submission Guidelines](#-submission-guidelines)
+12. [Answer Key Reference](#-answer-key-reference-for-instructors-only)
 
-**Deadline: January 25, 2026**
+---
 
+## 📚 Course Information
 
+| Field | Details |
+|:------|:--------|
+| **Course Code** | SWEN101 |
+| **Course Title** | Introduction to Computer Systems |
+| **Assignment Type** | Group Assignment |
+| **Total Marks** | 100 |
+| **Deadline** | January 25, 2026, 11:59 PM |
+| **Submission Format** | PDF (Single File) |
+| **Group Size** | 3 Members |
 
-### ⚠️ **IMPORTANT NOTICE:**
-> Some questions in this assignment may not have been fully addressed in the lectures so far. They are intentionally included to prepare you for upcoming topics and further study in Computer Systems. These questions require **critical thinking** and cannot be answered by simply copying from AI tools or textbooks.
+---
 
+## ⚠️ IMPORTANT NOTICE
+
+> **READ CAREFULLY BEFORE STARTING**
+>
+> Some questions in this assignment may not have been fully addressed in the lectures so far. They are intentionally included to:
+> - Prepare you for upcoming topics
+> - Encourage further study in Computer Systems
+> - Develop critical thinking skills
+>
+> These questions **require original analysis** and cannot be answered by simply copying from AI tools or textbooks. Submissions that appear to be AI-generated without proper analysis will receive **zero marks**.
+
+---
+
+## 📖 KEY DEFINITIONS
+
+*These definitions apply to ALL scheduling questions in this assignment.*
+
+### Scheduling Metrics
+
+| Term | Full Name | Formula/Definition |
+|:-----|:----------|:-------------------|
+| **AT** | Arrival Time | Time when process enters the ready queue |
+| **BT** | Burst Time | Total CPU time required by the process |
+| **CT** | Completion Time | Time when process finishes execution |
+| **TAT** | Turnaround Time | CT - AT |
+| **WT** | Waiting Time | TAT - BT |
+| **RT** | Response Time | Time of first CPU allocation - AT |
+
+### 🔄 Tie-Breaking Rules
+
+*Apply these rules to ALL scheduling questions unless otherwise specified:*
+
+| Priority | Rule | Description |
+|:--------:|:-----|:------------|
+| 1st | **FCFS** | Earlier arrival time executes first |
+| 2nd | **Process ID** | Lower Process ID first (P1 before P2) |
+| 3rd | **Round Robin Queue** | Arriving process joins queue before process completing quantum |
 
 
 ## 🎯 PART A: CPU SCHEDULING & OPERATING SYSTEM FUNDAMENTALS
