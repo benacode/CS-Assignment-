@@ -428,7 +428,7 @@ You have unlimited **NAND gates** only.
 | Item | Details |
 |:-----|:--------|
 | **Submission Deadline** | January 25, 2026, 11:59 PM (Local Time) |
-| **Submission Portal** | University LMS → SWEN101 → Assignments |
+| **Submission Portal** | College's LMS → SWEN101 → Assignments or Email |
 | **Late Penalty** | -10% per day (including weekends and holidays) |
 | **Maximum Late Period** | 5 days |
 | **After 5 Days Late** | Automatic 0% |
@@ -501,7 +501,7 @@ You have unlimited **NAND gates** only.
 > 7. We understand and accept the academic integrity policy
 > 8. We accept responsibility for any violations discovered
 >
-> **We acknowledge that any violation of academic integrity will result in disciplinary action as outlined in the university's academic integrity policy.**
+> **We acknowledge that any violation of academic integrity will result in disciplinary action as outlined in the College's academic integrity policy.**
 
 **Signatures:**
 
@@ -527,6 +527,3 @@ You have unlimited **NAND gates** only.
 *This assignment was designed to test your understanding of computer systems concepts and your ability to apply them to real-world scenarios. Take your time, think critically, and show your work!*
 </div>
 
-
-
-## 🏁 END OF ASSIGNMENT
