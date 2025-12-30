@@ -98,8 +98,35 @@ Compare **Von Neumann** and **Harvard Architectures** in terms of:
 ## 🔢 PART D: BOOLEAN ALGEBRA & DIGITAL SYSTEMS
 
 ### 🔢 **Question 4**
+Simplify the following Boolean function using a 4-variable Karnaugh Map:
 
-Simplify the Boolean function using a 4-variable Karnaugh Map:
+$$\Large F(A, B, C, D) = \prod M(0, 2, 5, 7, 8, 10, 13, 15)$$
+
+> 📌 **Notation:** 
+> - **Π M** denotes **Product of Sums (POS)** form
+> - The numbers represent **maxterms** (combinations where F = 0)
+> - Variable order: **A** is MSB, **D** is LSB
+
+**Maxterm Reference Table:**
+
+| Decimal | A | B | C | D | F (0 = maxterm) |
+|:-------:|:-:|:-:|:-:|:-:|:---------------:|
+| 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 1 | 1 |
+| 2 | 0 | 0 | 1 | 0 | 0 |
+| 3 | 0 | 0 | 1 | 1 | 1 |
+| 4 | 0 | 1 | 0 | 0 | 1 |
+| 5 | 0 | 1 | 0 | 1 | 0 |
+| 6 | 0 | 1 | 1 | 0 | 1 |
+| 7 | 0 | 1 | 1 | 1 | 0 |
+| 8 | 1 | 0 | 0 | 0 | 0 |
+| 9 | 1 | 0 | 0 | 1 | 1 |
+| 10 | 1 | 0 | 1 | 0 | 0 |
+| 11 | 1 | 0 | 1 | 1 | 1 |
+| 12 | 1 | 1 | 0 | 0 | 1 |
+| 13 | 1 | 1 | 0 | 1 | 0 |
+| 14 | 1 | 1 | 1 | 0 | 1 |
+| 15 | 1 | 1 | 1 | 1 | 0 |
 
 #### **Tasks:**
 1. 🗺️ Construct the K-map for POS (Product of Sums)
