@@ -16,24 +16,6 @@
 
 </div>
 
----
-
-## 📋 Table of Contents
-
-1. [Course Information](#-course-information)
-2. [Important Notice](#-important-notice)
-3. [Key Definitions](#-key-definitions)
-4. [Part A: CPU Scheduling](#-part-a-cpu-scheduling--operating-system-fundamentals)
-5. [Part B: Digital Logic](#-part-b-digital-logic--hardware-fundamentals)
-6. [Part C: Computer Architecture](#-part-c-computer-architecture--system-organization)
-7. [Part D: Boolean Algebra](#-part-d-boolean-algebra--digital-systems)
-8. [Part E: Conceptual Understanding](#-part-e-conceptual-understanding)
-9. [Part F: Critical Thinking](#-part-f-critical-thinking--real-world-application)
-10. [Part G: Ethical Considerations](#-part-g-ethical-considerations)
-11. [Submission Guidelines](#-submission-guidelines)
-12. [Answer Key Reference](#-answer-key-reference-for-instructors-only)
-
----
 
 ## 📚 Course Information
 
