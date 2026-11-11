@@ -4,9 +4,9 @@
 
 ## Group Assignment & Student Understanding Check
 
-### Academic Year 2025-2026
+### Academic Year 2026-2027
 
-**Deadline: January 25, 2026, 11:59 PM**
+**Deadline: January 25, 2027, 11:59 PM**
 
 ---
 
@@ -25,7 +25,7 @@
 | **Course Title** | Introduction to Computer Systems |
 | **Assignment Type** | Group Assignment |
 | **Total Marks** | 100 |
-| **Deadline** | January 25, 2026, 11:59 PM |
+| **Deadline** | January 25, 2027, 11:59 PM |
 | **Submission Format** | PDF (Single File) |
 | **Group Size** | 3 Members |
 
