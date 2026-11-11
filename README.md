@@ -426,7 +426,7 @@ You have unlimited **NAND gates** only.
 
 | Item | Details |
 |:-----|:--------|
-| **Submission Deadline** | January 25, 2026, 11:59 PM (Local Time) |
+| **Submission Deadline** | January 25, 2027, 11:59 PM (Local Time) |
 | **Submission Portal** | College's LMS → SWEN101 → Assignments or Email |
 | **Late Penalty** | -10% per day (including weekends and holidays) |
 | **Maximum Late Period** | 5 days |
